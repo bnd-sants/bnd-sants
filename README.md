@@ -47,6 +47,14 @@
 
 </div>
 
+### 🔐 Fundamentos de Cibersegurança
+
+**Foundations of Cybersecurity — Google (Coursera)** · [Ver certificado](https://coursera.org/verify/A42PYGG8E1K)
+
+- Fundamentos de cibersegurança e controles de segurança.
+- Noções sobre ataques comuns e seus impactos nas operações de uma organização.
+- Ética em segurança e familiaridade com ferramentas usadas por analistas, incluindo conceitos de SIEM.
+
 ---
 
 ### 🏆 Projetos em Destaque
